@@ -1,10 +1,8 @@
-const today = new Date();
+const oranges:number = 5;
+let speed:string = 'fast';
+let hasStatus:boolean = true;
 
-const person = {
-  age:21
-};
+let nothing1:null = null;
+let nothing2:undefined = undefined;
 
-class Color{}
-
-const red = new Color();
-
+let now:Date = new Date();
