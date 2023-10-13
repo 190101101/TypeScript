@@ -15,9 +15,7 @@ let results: boolean[] = [true, false, true]
 
 //classes
 
-class Car{
-
-}
+class Car{}
 
 let car:Car = new Car();
 
@@ -27,4 +25,9 @@ let point:{x:number; y:number} = {
     y:20
 }
 
-console.log(point);
+// functions
+const logNumber: (i:number) => void = (i:number) => {
+    console.log(i);
+};
+
+logNumber(9);
