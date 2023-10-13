@@ -2,3 +2,4 @@ npm install -g typescript ts-node
 tsc --help
 npm init -y
 npm install axios
+tsc index.ts
