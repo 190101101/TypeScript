@@ -31,3 +31,12 @@ const logNumber: (i:number) => void = (i:number) => {
 };
 
 logNumber(9);
+
+//when to use type annotations
+// 1 function returns the 'any' type
+
+const json = `{"x":10, "y":20}`;
+
+const coordinates = JSON.parse(json);
+console.log('coordinates:', coordinates);
+console.log(coordinates.asdasd);
