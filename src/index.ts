@@ -49,3 +49,15 @@ for(let i = 0; i < words.length; i++){
         isTwo=true;
     }
 }
+
+
+// 3 variables whoes type cant be inferrad
+
+let myNumbers = [-10, -1, 12];
+let positiveNumber:boolean|number = false;
+
+for(let i = 0; i < myNumbers.length; i++){
+    if(myNumbers[i] > 0){
+        positiveNumber = myNumbers[i];
+    }
+}
