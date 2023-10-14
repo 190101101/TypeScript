@@ -29,7 +29,7 @@ base\04 Annotations in act\25 project files
 
 base\05 object for annotation\26 function annotations
 base\05 object for annotation\27 type inference for func
-base\05 object for annotation\28 annotations for different types of functions
+base\05 object for annotation\28 different types
 base\05 object for annotation\29 void and never
 base\05 object for annotation\30 destructuring
 base\05 object for annotation\31 annotations for objects
