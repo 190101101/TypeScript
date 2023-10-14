@@ -61,3 +61,8 @@ for(let i = 0; i < myNumbers.length; i++){
         positiveNumber = myNumbers[i];
     }
 }
+
+//functions
+const add = (a:number, b:number):number => {
+    return b + b;
+}
