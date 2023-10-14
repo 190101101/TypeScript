@@ -38,3 +38,14 @@ logNumber(9);
 const json = `{"x":10, "y":20}`;
 const coordinates:{x:number, y:number} = JSON.parse(json);
 console.log('coordinates:', coordinates);
+
+// 2  when we declare a variable on one line and initialize it later
+
+let words = ['one', 'two', 'three'];
+let isTwo:boolean;
+
+for(let i = 0; i < words.length; i++){
+    if(words[i] === 'two'){
+        isTwo=true;
+    }
+}
