@@ -8,6 +8,12 @@ class Vehicle{
     }
 }
 
-const vehicle = new Vehicle();
-vehicle.drive();
-vehicle.stop();
+class Car extends Vehicle{
+    drive():void{
+        console.log('i am a car and i m driving')
+    }
+}
+
+const car = new Car();
+car.drive();
+car.stop();
