@@ -11,8 +11,18 @@ const oldCivic = {
   }
 };
 
+const cola = {
+  color:'brown',
+  carbonated:true,
+  sugar:40,
+  summary():string{
+    return `color has ${this.sugar} grams of sugar`
+  }
+}
+
 const printSummary = (item: Reportable): void => {
   console.log(item.summary());
 };
 
 printSummary(oldCivic);
+printSummary(cola);
