@@ -21,3 +21,10 @@ const coffe:Drink = ['black', false, 0]
 console.log(cola2);
 console.log(sprite);
 console.log(coffe);
+
+
+const carSpecs:[number, number] = [400, 3354]
+const carSpeceObj = {
+    horsepower:400,
+    weight:3354
+}
