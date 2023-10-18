@@ -1,5 +1,7 @@
 class Vehicle{
 
+    constructor(public color:string){}
+
     public stop():void{
         console.log('i am stopped');
     }
@@ -20,7 +22,14 @@ class Car extends Vehicle{
     }
 }
 
+const vehicle = new Vehicle('green');
+console.log(vehicle.color);
+
+/*
 const car = new Car();
-// car.drive();
+car.drive();
 car.startDrivingProcess();
 car.stop();
+*/
+
+
