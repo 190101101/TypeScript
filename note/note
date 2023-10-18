@@ -55,13 +55,13 @@ base\08 interfaces\47 reusing code using interfaces
 base\08 interfaces\48 interface plan
 base\08 interfaces\49 project files
 
-base\09 Creating functionality using classes\50 classes
-base\09 Creating functionality using classes\51 basics of inheritance
-base\09 Creating functionality using classes\52 object method modifiers
-base\09 Creating functionality using classes\53 fields in classes
-base\09 Creating functionality using classes\54 fields and inheritance
-base\09 Creating functionality using classes\55 where classes are used
-base\09 Creating functionality using classes\56 project files
+base\09 func using classes\50 classes
+base\09 func using classes\51 basics of inheritance
+base\09 func using classes\52 object method modifiers
+base\09 func using classes\53 fields in classes
+base\09 func using classes\54 fields and inheritance
+base\09 func using classes\55 where classes are used
+base\09 func using classes\56 project files
 
 base\10 Uses of Design Patterns\57 Brief overview of the application
 base\10 Uses of Design Patterns\58 running an application using parcel
