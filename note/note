@@ -63,29 +63,29 @@ base\09 func using classes\54 fields and inheritance
 base\09 func using classes\55 where classes are used
 base\09 func using classes\56 project files
 
-base\10 Uses of Design Patterns\57 Brief overview of the application
-base\10 Uses of Design Patterns\58 running an application using parcel
-base\10 Uses of Design Patterns\59 project structure
-base\10 Uses of Design Patterns\60 random data generation
-base\10 Uses of Design Patterns\61 type definition files
-base\10 Uses of Design Patterns\62 using type definition files
-base\10 Uses of Design Patterns\63 export to ts
-base\10 Uses of Design Patterns\64 creating a company class
-base\10 Uses of Design Patterns\65 adding google maps support
-base\10 Uses of Design Patterns\66 google maps integration
-base\10 Uses of Design Patterns\67 examining type definition files
-base\10 Uses of Design Patterns\68 hidden functionality
-base\10 Uses of Design Patterns\69 why use private modifiers
-base\10 Uses of Design Patterns\70 adding markers
-base\10 Uses of Design Patterns\71 code duplication
-base\10 Uses of Design Patterns\72 one of the possible solutions
-base\10 Uses of Design Patterns\73 restricting access using interfaces
-base\10 Uses of Design Patterns\74 implicit type checking
-base\10 Uses of Design Patterns\75 display pop-ups
-base\10 Uses of Design Patterns\76 interface definition update
-base\10 Uses of Design Patterns\77 add the implements keyword
-base\10 Uses of Design Patterns\78 lets sum it up
-base\10 Uses of Design Patterns\79 project files
+base\10 Design Patterns\57 Brief overview of the application
+base\10 Design Patterns\58 running an application using parcel
+base\10 Design Patterns\59 project structure
+base\10 Design Patterns\60 random data generation
+base\10 Design Patterns\61 type definition files
+base\10 Design Patterns\62 using type definition files
+base\10 Design Patterns\63 export to ts
+base\10 Design Patterns\64 creating a company class
+base\10 Design Patterns\65 adding google maps support
+base\10 Design Patterns\66 google maps integration
+base\10 Design Patterns\67 examining type definition files
+base\10 Design Patterns\68 hidden functionality
+base\10 Design Patterns\69 why use private modifiers
+base\10 Design Patterns\70 adding markers
+base\10 Design Patterns\71 code duplication
+base\10 Design Patterns\72 one of the possible solutions
+base\10 Design Patterns\73 restricting access using interfaces
+base\10 Design Patterns\74 implicit type checking
+base\10 Design Patterns\75 display pop-ups
+base\10 Design Patterns\76 interface definition update
+base\10 Design Patterns\77 add the implements keyword
+base\10 Design Patterns\78 lets sum it up
+base\10 Design Patterns\79 project files
 
 base\11 more about design patterns in ts\80 Brief overview of the application
 base\11 more about design patterns in ts\81 ts compiler configuration

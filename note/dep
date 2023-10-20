@@ -3,3 +3,6 @@ tsc --help
 npm init -y
 npm install axios
 tsc index.ts
+
+npm install -g parcel-bundler
+parcel index.html
