@@ -1,8 +1,12 @@
 {
+  "scripts": {
+    "start": "parcel index.html"
+  },
   "devDependencies": {
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "@faker-js/faker": "^8.2.0"
+    "@faker-js/faker": "^8.2.0",
+    "@types/faker": "^6.6.9"
   }
 }
