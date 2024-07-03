@@ -1,0 +1,12 @@
+npm install -g typescript ts-node
+tsc --help
+npm init -y
+npm install axios
+tsc index.ts
+
+npm install -g parcel-bundler
+parcel index.html
+
+npm i @faker-js/faker
+npm install @types/faker
+ts-node index.ts
