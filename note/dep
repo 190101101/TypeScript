@@ -8,6 +8,6 @@ npm install -g parcel-bundler
 parcel index.html 
 <script src="./index.ts"> 
 
-npm install @faker-js/faker
+npm install --save-dev @faker-js/faker
 npm install @types/faker
 ts-node index.ts
