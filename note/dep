@@ -5,7 +5,8 @@ npm install axios
 tsc index.ts
 
 npm install -g parcel-bundler
-parcel index.html
+parcel index.html 
+<script src="./index.ts"> 
 
 npm i @faker-js/faker
 npm install @types/faker
