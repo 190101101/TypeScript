@@ -51,7 +51,7 @@ export class Map {
     if (this.map && !this.clickListener) {
       this.clickListener = (e: L.LeafletMouseEvent) => {
         const { lat, lng } = e.latlng;
-        const markerName = prompt('Enter marker name:');
+        const markerName = prompt('enter marker name:');
 
         if (markerName) {
           const newMarker: Mappable = {

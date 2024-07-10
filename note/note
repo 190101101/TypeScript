@@ -87,29 +87,29 @@ base\10 Design Patterns\77 add the implements keyword
 base\10 Design Patterns\78 lets sum it up
 base\10 Design Patterns\79 project files
 
-base\11 more about design patterns in ts\80 Brief overview of the application
-base\11 more about design patterns in ts\81 ts compiler configuration
-base\11 more about design patterns in ts\82 simultaneous compilation and execution of code
-base\11 more about design patterns in ts\83 simple sorting algorithm
-base\11 more about design patterns in ts\84 sorter class
-base\11 more about design patterns in ts\85 sorting implementation
-base\11 more about design patterns in ts\86 two problems
-base\11 more about design patterns in ts\87 ts is really smart
-base\11 more about design patterns in ts\88 type protection
-base\11 more about design patterns in ts\89 why is that bad
-base\11 more about design patterns in ts\90 extracting key logic
-base\11 more about design patterns in ts\91 separation of comparison and exchange
-base\11 more about design patterns in ts\92 interface formulation
-base\11 more about design patterns in ts\93 interface definition
-base\11 more about design patterns in ts\94 sorting strings
-base\11 more about design patterns in ts\95 linkedlist implementation
-base\11 more about design patterns in ts\96 sort method integration
-base\11 more about design patterns in ts\97 problems with inheritance
-base\11 more about design patterns in ts\98 abstract classes
-base\11 more about design patterns in ts\99 why use abstract classes
-base\11 more about design patterns in ts\100 solving all problems using abstract classes
-base\11 more about design patterns in ts\101 interfaces vs abstract classes
-base\11 more about design patterns in ts\102 project files
+base\11 Design Patterns\80 Brief overview of the application
+base\11 Design Patterns\81 ts compiler configuration
+base\11 Design Patterns\82 simultaneous compilation and execution of code
+base\11 Design Patterns\83 simple sorting algorithm
+base\11 Design Patterns\84 sorter class
+base\11 Design Patterns\85 sorting implementation
+base\11 Design Patterns\86 two problems
+base\11 Design Patterns\87 ts is really smart
+base\11 Design Patterns\88 type protection
+base\11 Design Patterns\89 why is that bad
+base\11 Design Patterns\90 extracting key logic
+base\11 Design Patterns\91 separation of comparison and exchange
+base\11 Design Patterns\92 interface formulation
+base\11 Design Patterns\93 interface definition
+base\11 Design Patterns\94 sorting strings
+base\11 Design Patterns\95 linkedlist implementation
+base\11 Design Patterns\96 sort method integration
+base\11 Design Patterns\97 problems with inheritance
+base\11 Design Patterns\98 abstract classes
+base\11 Design Patterns\99 why use abstract classes
+base\11 Design Patterns\100 solving all problems using abstract classes
+base\11 Design Patterns\101 interfaces vs abstract classes
+base\11 Design Patterns\102 project files
 
 base\12 reusable code\103 brief overview of the project
 base\12 reusable code\104 setting up the project structure
