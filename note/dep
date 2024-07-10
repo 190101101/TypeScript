@@ -11,3 +11,6 @@ parcel index.html
 npm install --save-dev @faker-js/faker
 npm install @types/faker
 ts-node index.ts
+
+npm install --save @types/google.maps
+npm install leaflet
