@@ -13,8 +13,8 @@ export class Company {
     this.companyName = faker.company.name();
     this.catchPhrase = faker.company.catchPhrase();
     this.location = {
-      lat: faker.location.latitude(),
-      lng: faker.location.longitude(),
+      lat: 40.4672919, //faker.location.latitude(),
+      lng: 49.8539513, //faker.location.longitude(),
     };
   }
 }

@@ -1,8 +1,4 @@
 import * as L from 'leaflet';
-import { Company } from './Company';
-import { User } from './User';
-
-import * as L from 'leaflet';
 
 export class CustomMap {
   private map: L.Map;
