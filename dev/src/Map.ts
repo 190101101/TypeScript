@@ -1,6 +1,16 @@
 import * as L from 'leaflet';
+import { User } from './User';
+import { Company } from './Company';
 
-export class CustomMap {
+interface Mappable {
+  name: string;
+  location: {
+    lat: number;
+    lng: number;
+  };
+}
+
+export class Map {
   private map: L.Map;
   private mapElementId: string;
   private defaultCoords: L.LatLngExpression;
@@ -24,13 +34,18 @@ export class CustomMap {
     }
   }
 
-  public addMarker(coords: L.LatLngExpression): void {
+  public addMarker(mappable: Mappable): void {
     if (!this.map) {
       console.error(`Map not initialized for '${this.mapElementId}'.`);
       return;
     }
 
-    const marker = L.marker(coords).addTo(this.map);
-    marker.bindPopup('Marker').openPopup();
+    const marker = L.marker(mappable.location).addTo(this.map);
+    marker.bindPopup(mappable.name).openPopup();
+
+    console.log(`name: ${mappable.name}`);
+    console.log(
+      `location: ${mappable.location.lat} - ${mappable.location.lng}`
+    );
   }
 }
