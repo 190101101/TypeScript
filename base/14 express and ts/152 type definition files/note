@@ -5,7 +5,7 @@ extends core.Request<P, ResBody, ReqBody, ReqQuery, Locals> {}
 cmd click
 
 export interface Request<
-    body: ReqBody; = body: {[key:string]:|undefined};
+    body: ReqBody; = body: {[key:string]:string|undefined};
 
 res.send(req.body.email.toUpperCase()); // error
 
