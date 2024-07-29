@@ -1,0 +1,32 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start:build": "tsc -w",
+    "start:run": "nodemon build/index.js",
+    "start": "concurrently npm:start:*"
+  },
+  "test": {
+    "start2": "ts-node src/index.ts*",
+    "test": "ts-node src/index.ts",
+    "test2": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/google.maps": "^3.55.11",
+    "@types/node": "^20.14.10",
+    "axios": "^1.7.2",
+    "concurrently": "^8.2.2",
+    "google-maps": "^4.3.3",
+    "leaflet": "^1.9.4",
+    "nodemon": "^3.1.4"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "typescript": "^5.5.3"
+  }
+}
