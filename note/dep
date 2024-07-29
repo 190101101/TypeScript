@@ -22,3 +22,5 @@ tsconfig.json
 
 npm install nodemon concurrently
 npm install @types/node
+
+npm install ts-express-decorators
