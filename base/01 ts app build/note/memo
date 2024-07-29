@@ -1,0 +1,11 @@
+start: 03.07.2024 03:05
+
+tsc --init
+tsconfig.json
+
+"outDir": "./build",  
+"rootDir": "./src",
+
+tsc
+tsc -w // build
+
