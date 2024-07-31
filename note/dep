@@ -23,7 +23,9 @@ tsconfig.json
 npm install nodemon concurrently
 npm install @types/node
 
-npm install ts-express-decorators
-
 npm install --save express body-parser cookie-session
 npm install --save @types/express @types/body-parser @types/cookie-session
+
+
+npm install ts-express-decorators
+npm install reflect-metadata
