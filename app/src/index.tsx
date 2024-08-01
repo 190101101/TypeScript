@@ -1,9 +1,13 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 
-class App extends React.Component{
+interface AddProps{
+  color?:string
+}
+
+class App extends React.Component<AddProps>{
   render(){
-    return <div>Hello Pepikus</div>
+    return <div>{this.props.color}</div>
   }
 }
 
