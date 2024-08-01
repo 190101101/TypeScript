@@ -161,7 +161,7 @@ base\14 express and ts\147 setting up the project structure
 base\14 express and ts\148 create in express root route
 base\14 express and ts\149 using express router
 base\14 express and ts\150 form body parsing
-base\14 express and ts\151 why express doesn't work so easily with ts
+base\14 express and ts\151 why express doesnt work so easily with ts
 base\14 express and ts\152 problems with type definition files
 base\14 express and ts\153 solving the problem with type definition files
 base\14 express and ts\154 creating a session
@@ -187,7 +187,7 @@ base\16 express and ts extended\171 why is it difficult
 base\16 express and ts extended\172 solution overview
 base\16 express and ts extended\173 metadata basics
 base\16 express and ts extended\174 practical example with metadata
-base\16 express and ts extended\175 let's start refactoring
+base\16 express and ts extended\175 lets start refactoring
 base\16 express and ts extended\176 get decorator
 base\16 express and ts extended\177 controller decorator
 base\16 express and ts extended\178 proof of concept
