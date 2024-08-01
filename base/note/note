@@ -1,0 +1,230 @@
+base\01 introduction\01 introduction
+base\01 introduction\02 FAQ
+
+base\02 ts dating\03 a quick overview of ts
+base\02 ts dating\04 installation among development
+base\02 ts dating\05 first application
+base\02 ts dating\06 running ts code
+base\02 ts dating\07 small code change
+base\02 ts dating\08 detecting errors using ts
+base\02 ts dating\09 identifying even more errors
+
+base\03 system types\10 course overview
+base\03 system types\11 types
+base\03 system types\12 more about types
+base\03 system types\13 type examples
+base\03 system types\14 where are types used
+base\03 system types\15 project files
+
+base\04 Annotations in act\16 type inference
+base\04 Annotations in act\17 variables
+base\04 Annotations in act\18 object literals
+base\04 Annotations in act\19 functions
+base\04 Annotations in act\20 what is type inference
+base\04 Annotations in act\21 type any
+base\04 Annotations in act\22 fix type any
+base\04 Annotations in act\23 lazy initialization
+base\04 Annotations in act\24 when doesnt work
+base\04 Annotations in act\25 project files
+
+base\05 object for annotation\26 function annotations
+base\05 object for annotation\27 type inference func
+base\05 object for annotation\28 different types
+base\05 object for annotation\29 void and never
+base\05 object for annotation\30 destructuring
+base\05 object for annotation\31 annotations for object
+base\05 object for annotation\32 project files
+
+base\06 typed array\33 arrays in ts
+base\06 typed array\34 what are arrays for in ts
+base\06 typed array\35 arrays with different types
+base\06 typed array\36 when to use typed arrays
+base\06 typed array\37 project files
+
+base\07 tuples\38 tuples in ts
+base\07 tuples\39 tuples in action
+base\07 tuples\40 what are they for
+base\07 tuples\41 project files
+
+base\08 interfaces\42 interfaces
+base\08 interfaces\43 long type annotations
+base\08 interfaces\44 using interfaces
+base\08 interfaces\45 interface syntax
+base\08 interfaces\46 functions in interfaces
+base\08 interfaces\47 reusing code using interfaces
+base\08 interfaces\48 interface plan
+base\08 interfaces\49 project files
+
+base\09 func using classes\50 classes
+base\09 func using classes\51 basics of inheritance
+base\09 func using classes\52 object method modifiers
+base\09 func using classes\53 fields in classes
+base\09 func using classes\54 fields and inheritance
+base\09 func using classes\55 where classes are used
+base\09 func using classes\56 project files
+
+base\10 Design Patterns\57 Brief overview of the application
+base\10 Design Patterns\58 running an application using parcel
+base\10 Design Patterns\59 project structure
+base\10 Design Patterns\60 random data generation
+base\10 Design Patterns\61 type definition files
+base\10 Design Patterns\62 using type definition files
+base\10 Design Patterns\63 export to ts
+base\10 Design Patterns\64 creating a company class
+base\10 Design Patterns\65 adding google maps support
+base\10 Design Patterns\66 google maps integration
+base\10 Design Patterns\67 examining type definition files
+base\10 Design Patterns\68 hidden functionality
+base\10 Design Patterns\69 why use private modifiers
+base\10 Design Patterns\70 adding markers
+base\10 Design Patterns\71 code duplication
+base\10 Design Patterns\72 one of the possible solutions
+base\10 Design Patterns\73 restricting access using interfaces
+base\10 Design Patterns\74 implicit type checking
+base\10 Design Patterns\75 display pop-ups
+base\10 Design Patterns\76 interface definition update
+base\10 Design Patterns\77 add the implements keyword
+base\10 Design Patterns\78 lets sum it up
+base\10 Design Patterns\79 project files
+
+base\11 Design Patterns\80 Brief overview of the application
+base\11 Design Patterns\81 ts compiler configuration
+base\11 Design Patterns\82 simultaneous compilation and execution of code
+base\11 Design Patterns\83 simple sorting algorithm
+base\11 Design Patterns\84 sorter class
+base\11 Design Patterns\85 sorting implementation
+base\11 Design Patterns\86 two problems
+base\11 Design Patterns\87 ts is really smart
+base\11 Design Patterns\88 type protection
+base\11 Design Patterns\89 why is that bad
+base\11 Design Patterns\90 extracting key logic
+base\11 Design Patterns\91 separation of comparison and exchange
+base\11 Design Patterns\92 interface formulation
+base\11 Design Patterns\93 interface definition
+base\11 Design Patterns\94 sorting strings
+base\11 Design Patterns\95 linkedlist implementation
+base\11 Design Patterns\96 sort method integration
+base\11 Design Patterns\97 problems with inheritance
+base\11 Design Patterns\98 abstract classes
+base\11 Design Patterns\99 why use abstract classes
+base\11 Design Patterns\100 solving all problems using abstract classes
+base\11 Design Patterns\101 interfaces vs abstract classes
+base\11 Design Patterns\102 project files
+
+base\12 reusable code\103 brief overview of the project
+base\12 reusable code\104 setting up the project structure
+base\12 reusable code\105 csv file
+base\12 reusable code\106 again about type definition files
+base\12 reusable code\107 reading csv files
+base\12 reusable code\108 data analysis
+base\12 reusable code\109 loss of data context
+base\12 reusable code\110 using enums
+base\12 reusable code\111 when to use enums
+base\12 reusable code\112 extracting logic for reading csv data
+base\12 reusable code\113 data types
+base\12 reusable code\114 converting string dates to date class objects
+base\12 reusable code\115 converting values in a data string
+base\12 reusable code\116 type assertions
+base\12 reusable code\117 describing a string using tuple
+base\12 reusable code\118 filereader is not finished yet
+base\12 reusable code\119 understanding refactoring
+base\12 reusable code\120 creating an abstract class
+base\12 reusable code\121 variable types and generics
+base\12 reusable code\122 applying a type to a generic class
+base\12 reusable code\123 alternative refactoring
+base\12 reusable code\124 interface based approach
+base\12 reusable code\125 extract references to match again
+base\12 reusable code\126 data transformation
+base\12 reusable code\127 reader link update
+base\12 reusable code\128 inheritance vs composition
+base\12 reusable code\129 more about inheritance vs composition
+base\12 reusable code\130 concept of composition
+base\12 reusable code\131 lets move on
+base\12 reusable code\132 composition-based approach
+base\12 reusable code\133 implementation of the analyzer class
+base\12 reusable code\134 creation of reporter
+base\12 reusable code\135 tying it all together
+base\12 reusable code\136 generating html report
+base\12 reusable code\137 static methods
+base\12 reusable code\138 lets sum it up
+base\12 reusable code\139 project files
+
+base\13 advanced generics\140 more about generics
+base\13 advanced generics\141 type inference and generics
+base\13 advanced generics\142 functions and generics
+base\13 advanced generics\143 generic constraints
+base\13 advanced generics\144 project files
+
+base\14 express and ts\145 ts and js libraries
+base\14 express and ts\146 app review
+base\14 express and ts\147 setting up the project structure
+base\14 express and ts\148 create in express root route
+base\14 express and ts\149 using express router
+base\14 express and ts\150 form body parsing
+base\14 express and ts\151 why express doesnt work so easily with ts
+base\14 express and ts\152 problems with type definition files
+base\14 express and ts\153 solving the problem with type definition files
+base\14 express and ts\154 creating a session
+base\14 express and ts\155 login and logout
+base\14 express and ts\156 route protected
+base\14 express and ts\157 closer integration of ts and express
+base\14 express and ts\158 refactoring
+base\14 express and ts\159 classes and prototypes
+base\14 express and ts\160 project files
+
+base\15 decorators\161 decorators in ts
+base\15 decorators\162 more about decorators
+base\15 decorators\163 property descriptor
+base\15 decorators\164 method wrapping
+base\15 decorators\165 decorator factory
+base\15 decorators\166 decorators and properties
+base\15 decorators\167 more about decorators
+base\15 decorators\168 project files
+
+base\16 express and ts extended\169 important note
+base\16 express and ts extended\170 project overview
+base\16 express and ts extended\171 why is it difficult
+base\16 express and ts extended\172 solution overview
+base\16 express and ts extended\173 metadata basics
+base\16 express and ts extended\174 practical example with metadata
+base\16 express and ts extended\175 lets start refactoring
+base\16 express and ts extended\176 get decorator
+base\16 express and ts extended\177 controller decorator
+base\16 express and ts extended\178 proof of concept
+base\16 express and ts extended\179 several fixes
+base\16 express and ts extended\180 routebinder definition
+base\16 express and ts extended\181 enum methods
+base\16 express and ts extended\182 enum metadatakeys
+base\16 express and ts extended\183 use decorator
+base\16 express and ts extended\184 use testing
+base\16 express and ts extended\185 bodyvalidators
+base\16 express and ts extended\186 automated validation testing
+base\16 express and ts extended\187 rootcontroller
+base\16 express and ts extended\188 using propertydescriptor
+base\16 express and ts extended\189 project results
+base\16 express and ts extended\190 project files
+
+base\17 react to ts abbreviation\191 overview of react and redux
+base\17 react to ts abbreviation\192 app review
+base\17 react to ts abbreviation\193 creating an application
+base\17 react to ts abbreviation\194 simple component
+base\17 react to ts abbreviation\195 interfaces and props
+base\17 react to ts abbreviation\196 processing component state
+base\17 react to ts abbreviation\197 unclear component state
+base\17 react to ts abbreviation\198 functional components
+base\17 react to ts abbreviation\199 installing redux
+base\17 react to ts abbreviation\200 action creators and ts
+base\17 react to ts abbreviation\201 actiontypes enum
+base\17 react to ts abbreviation\202 generic dispatch function
+base\17 react to ts abbreviation\203 reducer and enums
+base\17 react to ts abbreviation\204 redux store structure validation
+base\17 react to ts abbreviation\205 connecting the component to redux
+base\17 react to ts abbreviation\206 list display
+base\17 react to ts abbreviation\207 adding delete functionality
+base\17 react to ts abbreviation\208 actions expression using type union
+base\17 react to ts abbreviation\209 type guard in reducers
+base\17 react to ts abbreviation\210 binding deletetodo action
+base\17 react to ts abbreviation\211 again about type definition files
+base\17 react to ts abbreviation\212 Load tracking using component state
+base\17 react to ts abbreviation\213 project results
+base\17 react to ts abbreviation\214 project files

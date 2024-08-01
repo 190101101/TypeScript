@@ -1,0 +1,31 @@
+npm install -g typescript ts-node
+tsc --help
+npm init -y
+npm install axios
+tsc index.ts
+
+npm install -g parcel-bundler
+parcel index.html 
+<script src="./index.ts"> 
+
+npm install --save-dev @faker-js/faker
+npm install @types/faker
+ts-node index.ts
+
+npm install axios
+npm install --save @types/google.maps
+npm install google-maps
+npm install leaflet
+
+tsc --init
+tsconfig.json
+
+npm install nodemon concurrently
+npm install @types/node
+
+npm install --save express body-parser cookie-session
+npm install --save @types/express @types/body-parser @types/cookie-session
+
+
+npm install ts-express-decorators
+npm install reflect-metadata
