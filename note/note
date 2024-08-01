@@ -204,27 +204,27 @@ base\16 express and ts extended\188 using propertydescriptor
 base\16 express and ts extended\189 project results
 base\16 express and ts extended\190 project files
 
-base\17 react to ts abbreviation\191 overview of react and redux
-base\17 react to ts abbreviation\192 app review
-base\17 react to ts abbreviation\193 creating an application
-base\17 react to ts abbreviation\194 simple component
-base\17 react to ts abbreviation\195 interfaces and props
-base\17 react to ts abbreviation\196 processing component state
-base\17 react to ts abbreviation\197 unclear component state
-base\17 react to ts abbreviation\198 functional components
-base\17 react to ts abbreviation\199 installing redux
-base\17 react to ts abbreviation\200 action creators and ts
-base\17 react to ts abbreviation\201 actiontypes enum
-base\17 react to ts abbreviation\202 generic dispatch function
-base\17 react to ts abbreviation\203 reducer and enums
-base\17 react to ts abbreviation\204 redux store structure validation
-base\17 react to ts abbreviation\205 connecting the component to redux
-base\17 react to ts abbreviation\206 list display
-base\17 react to ts abbreviation\207 adding delete functionality
-base\17 react to ts abbreviation\208 actions expression using type union
-base\17 react to ts abbreviation\209 type guard in reducers
-base\17 react to ts abbreviation\210 binding deletetodo action
-base\17 react to ts abbreviation\211 again about type definition files
-base\17 react to ts abbreviation\212 Load tracking using component state
-base\17 react to ts abbreviation\213 project results
-base\17 react to ts abbreviation\214 project files
+base\17 react to ts\191 overview of react and redux
+base\17 react to ts\192 app review
+base\17 react to ts\193 creating an application
+base\17 react to ts\194 simple component
+base\17 react to ts\195 interfaces and props
+base\17 react to ts\196 processing component state
+base\17 react to ts\197 unclear component state
+base\17 react to ts\198 functional components
+base\17 react to ts\199 installing redux
+base\17 react to ts\200 action creators and ts
+base\17 react to ts\201 actiontypes enum
+base\17 react to ts\202 generic dispatch function
+base\17 react to ts\203 reducer and enums
+base\17 react to ts\204 redux store structure validation
+base\17 react to ts\205 connecting the component to redux
+base\17 react to ts\206 list display
+base\17 react to ts\207 adding delete functionality
+base\17 react to ts\208 actions expression using type union
+base\17 react to ts\209 type guard in reducers
+base\17 react to ts\210 binding deletetodo action
+base\17 react to ts\211 again about type definition files
+base\17 react to ts\212 Load tracking using component state
+base\17 react to ts\213 project results
+base\17 react to ts\214 project files
