@@ -5,8 +5,15 @@ interface AddProps {
   color?: string;
 }
 
-class App extends React.Component<AddProps> {
-  state = { counter: 0 };
+interface AppState {
+  counter: number;
+}
+
+class App extends React.Component<AddProps, AppState> {
+  constructor(props: AddProps) {
+    super(props);
+    this.state = { counter: 0 };
+  }
 
   onIncrement = (): void => {
     this.setState({ counter: this.state.counter + 1 });
