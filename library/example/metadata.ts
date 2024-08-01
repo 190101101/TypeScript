@@ -1,38 +1,25 @@
 import 'reflect-metadata';
 
-//1
-const box = {
-  color: 'black',
-};
-
-// metadata for object
-Reflect.defineMetadata('note', 'hello', box);
-Reflect.defineMetadata('width', 30, box);
-console.log(box);
-
-const note = Reflect.getMetadata('note', box);
-const width = Reflect.getMetadata('width', box);
-
-// metadata for object property
-Reflect.defineMetadata('note', 'hello', box, 'color');
-const note2 = Reflect.getMetadata('note', box, 'color');
-console.log(note2);
-
-//2
+@controller
 class Car {
   color: string = 'black';
 
-  @markFunction('big secret')
+  @get('/login')
   drive(): void {
     console.log('i am driving');
   }
 }
 
-function markFunction(secret: string) {
+function get(path: string) {
   return function (target: Car, key: string) {
-    Reflect.defineMetadata('info', secret, target, key);
+    Reflect.defineMetadata('path', path, target, key);
   };
 }
 
-const info = Reflect.getMetadata('info', Car.prototype, 'drive');
-console.log(info);
+function controller(target: typeof Car) {
+  for (let key in target.prototype) {
+    const path = Reflect.getMetadata('path', target.prototype, key);
+    const middleware = Reflect.getMetadata('middleware', target.prototype, key);
+    router.get(path, middleware, target.prototype[key]);
+  }
+}
