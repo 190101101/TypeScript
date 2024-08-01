@@ -29,3 +29,6 @@ npm install --save @types/express @types/body-parser @types/cookie-session
 
 npm install ts-express-decorators
 npm install reflect-metadata
+
+
+npx create-react-app app --template typescript
