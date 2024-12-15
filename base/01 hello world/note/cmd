@@ -1,0 +1,2 @@
+tsc index.ts -> compiler
+tsx index.ts -> run code
