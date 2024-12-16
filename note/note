@@ -6,3 +6,4 @@ base\05 typescript-type-annotations
 base\06 typescript-type-inference
 base\07 typescript-number
 base\08 typescript-string
+base\09 typescript-boolean
