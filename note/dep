@@ -1,6 +1,6 @@
-npm install -g typescript
+npm install -g typescript
 tsc --v
-npm install -g tsx
+npm install -g tsx
 npm i typescript
 npm i nodemon
 npm i concurrently

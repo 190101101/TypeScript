@@ -1,4 +1,0 @@
-Компилятор TypeScript компилирует TypeScript в JavaScript.
-Используйте tsc команду для компиляции файла TypeScript в файл JavaScript.
-
-Используйте tsx модуль для запуска TypeScript непосредственно на Node.js без предварительной компиляции в JavaScript.
