@@ -7,3 +7,5 @@ base\06 typescript-type-inference
 base\07 typescript-number
 base\08 typescript-string
 base\09 typescript-boolean
+base\10 typescript-object-type
+base\10 typescript-array-type

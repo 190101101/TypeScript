@@ -3,3 +3,6 @@ tsx index.ts -> run code
 
 npm init -y
 parcel index.html
+
+index.html -> script src index.js
+tsc index.ts -w
