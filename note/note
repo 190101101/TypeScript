@@ -11,4 +11,5 @@ base\10 typescript-object-type
 base\11 typescript-array-type
 base\12 typescript-unknown-type
 base\13 typescript-tuple
-
+base\14 typescript-enum
+base\15 typescript-any-type
