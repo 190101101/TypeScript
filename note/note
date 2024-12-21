@@ -16,3 +16,4 @@ base\15 typescript-any-type
 base\16 typescript-void-type
 base\17 typescript-union-type
 base\18 typescript-type-aliases
+base\19 typescript-string-literal-types
