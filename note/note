@@ -18,3 +18,4 @@ base\17 typescript-union-type
 base\18 typescript-type-aliases
 base\19 typescript-string-literal-types
 base\20 typescript-never-type
+base\21 typescript-functions
